@@ -1,2 +1,2 @@
 # MineFiled
-A game about mines codded in Java
+A game about mines coded in Java
